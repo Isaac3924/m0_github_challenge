@@ -1,3 +1,3 @@
 # GitHub Steps
 
-Describe in your own words how to establish a connection between a local repository and a remote repository on GitHub.
+First, make sure git is initialized. Next, make your changes to your code. Once changes are made, add them using the terminal command 'git add .'. Make sure to commit the changes with 'git commit' and that your message is present imperative. Once you've commit, you can then use the 'git push' command. If you are not already connected to the repository, 'git push' will not work, and you will need to do some more to connect.
